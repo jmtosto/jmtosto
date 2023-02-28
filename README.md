@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-- Founder & Software Engineer @ [Startec](https://startecjobs.com)
+- I'm currently Founder & Software Engineer @ [Startec](https://startecjobs.com)
 
 ## Contacts
 
@@ -16,6 +16,7 @@
 
 ## Tech Stack
 
+<div>
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" width="40" height="40"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual studio code&logoColor=white" width="40" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="40" height="40"/>
@@ -35,7 +36,8 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="40" height="40"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="40" height="40"/>
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" width="40" height="40"/>
-
+</div>
+  
 ## Product & Design
 
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=google analytics&logoColor=white" width="40" height="40"/>
@@ -52,8 +54,6 @@
 
 <div>
 <a href="https://github.com/jmtosto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmtosto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmtosto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<a href="https://app.daily.dev/jmtosto"><img src="https://api.daily.dev/devcards/30e9ed31a83348539edf62a309dd943e.png?r=s1x" width="400" alt="João Tosto's Dev Card"/></a>

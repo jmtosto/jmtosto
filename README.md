@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-- I'm currently Founder & Software Engineer @ [Startec](https://startecjobs.com)
+- I'm Founder & CTO @ [Startec](https://startecjobs.com)
 
 ## Contacts
 

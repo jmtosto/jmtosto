@@ -1,8 +1,6 @@
 # João Tosto
 
-## Passionate about building software companies.
-
-- Currently Product Manager at [SuperSummary](https://www.supersummary.com/).
+### Passionate about building software companies. Currently working as Product Manager at [SuperSummary](https://www.supersummary.com/).
 
 ## Contacts
 

@@ -1,8 +1,8 @@
-# Hi there 👋
+# João Tosto
 
-## Welcome to my GitHub profile
+## Passionate about building software companies.
 
-- I'm Founder & CTO @ [Startec](https://startecjobs.com)
+- Currently Product Manager at [SuperSummary](https://www.supersummary.com/).
 
 ## Contacts
 
